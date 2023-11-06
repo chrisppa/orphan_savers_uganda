@@ -1643,9 +1643,9 @@ blockquote::before {
 
 .gallery_head,
 .contact_head {
-  color: orange;
-  font-size: 4rem;
-  margin-bottom: 3rem;
+  color: var(--secondary-color);
+  font-size: 3rem;
+  margin-bottom: 2rem;
   line-height: 150%;
   font-weight: 400;
   text-align: center;
